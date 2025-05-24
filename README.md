@@ -92,19 +92,19 @@ This mock data is imported into `page.tsx` to initialize and manage chat state w
 
 ## How to Run
 
-# 1. Create the project (if starting fresh)
+ 1. Create the project (if starting fresh)
 npx create-next-app@latest ai-chat-panel
 cd ai-chat-panel
 
-# 2. Install required dependencies
+ 2. Install required dependencies
 npm install
 npm install react-icons
 npm install framer-motion
 
-# 3. Start the development server
+ 3. Start the development server
 npm run dev
 
-# 4. Open in browser
+ 4. Open in browser
 http://localhost:3000
 
 
