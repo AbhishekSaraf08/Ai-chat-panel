@@ -1,18 +1,6 @@
-/* Directory Structure:
-  - app/
-    - page.tsx
-  - components/
-    - Sidebar.tsx
-    - ChatList.tsx
-    - ChatWindow.tsx
-    - AICopilot.tsx
-    - MessageInput.tsx
-*/
-
-// app/page.tsx
 
 "use client";
-// components/Sidebar.tsx
+
 import { useState } from 'react';
 import { FiMenu } from 'react-icons/fi';
 import { motion } from 'framer-motion';
