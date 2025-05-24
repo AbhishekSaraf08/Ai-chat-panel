@@ -109,10 +109,11 @@ http://localhost:3000
 
 
 ##Future Improvements
-Connect to a real AI backend (e.g. OpenAI, Dialogflow)
-Store chat data in local storage or database
-Enable real file attachments and emoji picker
-Generate dynamic AI and agent responses
+
+- Connect to a real AI backend (e.g. OpenAI, Dialogflow)
+- Store chat data in local storage or database
+- Enable real file attachments and emoji picker
+- Generate dynamic AI and agent responses
 
 ## Technologies/Libraries Used
 - Next.js – React framework
