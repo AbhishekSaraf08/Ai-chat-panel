@@ -6,6 +6,10 @@ AI Chat Panel is a modern chat interface built with **Next.js**, **React**, and 
 It offers a complete messaging experience, including an inbox, chat window, message input, and an AI assistant panel.  
 The app features smooth animations and a responsive layout optimized for all screen sizes.
 
+
+## Live Project Link (vercel)
+
+https://ai-chat-panel.vercel.app/
 ---
 
 ## Project Structure
@@ -108,7 +112,7 @@ npm run dev
 http://localhost:3000
 
 
-##Future Improvements
+## Future Improvements
 
 - Connect to a real AI backend (e.g. OpenAI, Dialogflow)
 - Store chat data in local storage or database
@@ -117,7 +121,7 @@ http://localhost:3000
 
 ## Technologies/Libraries Used
 - Next.js – React framework
-- 2.React – UI library
+- React – UI library
 - Tailwind CSS – Utility-first CSS framework
 - Framer Motion – Animation library
 - React Icons – Icon library for UI
