@@ -115,8 +115,8 @@ Enable real file attachments and emoji picker
 Generate dynamic AI and agent responses
 
 ## Technologies/Libraries Used
-1.Next.js – React framework
-2.React – UI library
-3.Tailwind CSS – Utility-first CSS framework
-4.Framer Motion – Animation library
-5.React Icons – Icon library for UI
+- Next.js – React framework
+- 2.React – UI library
+- Tailwind CSS – Utility-first CSS framework
+- Framer Motion – Animation library
+- React Icons – Icon library for UI
